@@ -1,4 +1,4 @@
-package org.kasource.commons.guice.bean;
+package org.kasource.guice.bean;
 
 import java.lang.annotation.Annotation;
 import java.util.HashSet;
@@ -6,8 +6,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-import org.kasource.commons.bean.BeanNotFoundException;
-import org.kasource.commons.bean.BeanResolver;
+import org.kasource.di.bean.BeanNotFoundException;
+import org.kasource.di.bean.BeanResolver;
 
 
 import com.google.inject.Binding;

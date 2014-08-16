@@ -1,4 +1,4 @@
-package org.kasource.commons.guice.injection.listener;
+package org.kasource.guice.injection.listener;
 
 import java.util.ArrayList;
 import java.util.HashSet;
