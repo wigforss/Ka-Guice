@@ -7,7 +7,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.kasource.commons</groupId>
 	<artifactId>ka-guice</artifactId>
-	<version>0.1-SNAPSHOT</version>
+	<version>0.1</version>
 	<packaging>jar</packaging>
 	<name>Ka Guice</name>
 	<url>http://kasource.org</url>
